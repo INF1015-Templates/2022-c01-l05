@@ -170,6 +170,20 @@
     <None Include="..\doc\Classroom.md" />
     <None Include="..\doc\Vcpkg.md" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Affichable.hpp" />
+    <ClInclude Include="Heros.hpp" />
+    <ClInclude Include="Iterateur.hpp" />
+    <ClInclude Include="lectureBinaire.hpp">
+      <SubType>
+      </SubType>
+    </ClInclude>
+    <ClInclude Include="ListeLiee.hpp" />
+    <ClInclude Include="Noeud.hpp" />
+    <ClInclude Include="Personnage.hpp" />
+    <ClInclude Include="Vilain.hpp" />
+    <ClInclude Include="VilainHeros.hpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

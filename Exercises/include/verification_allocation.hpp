@@ -6,6 +6,7 @@
 /// \since   2020-04
 
 #include <unordered_map>
+#include <cstddef>
 
 #define VERIFICATION_ALLOCATION_INCLUS
 #define VERIFICATION_ALLOCATION_GLOBALE
