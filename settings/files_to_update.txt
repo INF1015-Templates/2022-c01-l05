@@ -3,3 +3,11 @@ settings/variables.txt
 
 README.md
 
+Exercises/Affichable.hpp
+Exercises/Heros.hpp
+Exercises/Personnage.hpp
+Exercises/Vilain.hpp
+Exercises/VilainHeros.hpp
+Exercises/heros.bin
+Exercises/lectureBinaire.hpp
+Exercises/vilains.bin
